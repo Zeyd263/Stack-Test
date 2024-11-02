@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Abdesselam Boutchich <zeyd.boutchich@gmail.com>
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

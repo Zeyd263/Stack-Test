@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Abdesselam Boutchich <zeyd.boutchich@gmail.com>
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
 public class MyMaths {
 	
 	public int gcd(int m, int n) {
